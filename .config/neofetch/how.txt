@@ -1,0 +1,10 @@
+rempng ---> is the name of the png size was w=280 h=263
+
+config.conf is the default name if changing
+
+name is for the ---------------- line one
+
+ima is for the image fetch.
+
+and default is the default one
+
